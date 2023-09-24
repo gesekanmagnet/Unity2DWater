@@ -1,2 +1,2 @@
-unity2d-water-effect
+Unity 2D Water Simulation
 ====================
