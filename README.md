@@ -1,3 +1,3 @@
 Unity 2D Water Simulation
 ====================
-Unity 2D Water Simulasi Physic
+Unity 2D Water Simulasi Physics
